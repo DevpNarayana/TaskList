@@ -1,0 +1,1 @@
+This is to make responsive to-do list app using plain JS.
